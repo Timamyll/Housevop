@@ -1,0 +1,11 @@
+.page__title {
+    padding-top: 120px;
+}
+
+.title__text {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* accent */
+    color: #D4C17F;
+}
